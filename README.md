@@ -1,6 +1,6 @@
 # 各国人口增长（1961 - 2023 年）数据分析
 
-![Poulation](htps://github.com/SolitaryEgo/Analysis-of-Population-Growth-by-each-country-1961---2023-/blob/main/dataset-cover.png)
+![Poulation](https://github.com/SolitaryEgo/Analysis-of-Population-Growth-by-each-country-1961---2023-/blob/main/dataset-cover.png)
 
 ## 数据说明
 
